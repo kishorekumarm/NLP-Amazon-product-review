@@ -14,7 +14,7 @@ To predict the positive and negative scores for any random 10 comments web scrap
 
 ### 1. Web scrap data using rvest package 
 
-<img src='webscrap.png'>
+![ScreenShot](webscrap.png)
 
 
 ```python
@@ -81,18 +81,18 @@ df2
 
 ### 2. Tokenization to sentence/word using tm package 
 
-<img src='tokenization.png'>
+![ScreenShot](tokenization.png)
 
   <i><b>corpus structure:</b></i>
 
-<img src="corpus1.png">
+![ScreenShot](corpus1.png)
 
 ### 3. Feeding tokens to nltk package and assess positive and negative scores
 
-<img src="posscore.png">
+![ScreenShot](posscore.png)
 
 <b><i>Overall final scores</b></i>
 
-<img src="overall.png">
+![ScreenShot](overall.png)
 
 <font size=4><b><u>Inference:</b></u> Of the latest 9 reviews pulled for this product, overall positivity shoots to 95%, which significantly shows the product is well received in the market.</font>
