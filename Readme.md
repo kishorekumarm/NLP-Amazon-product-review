@@ -14,7 +14,7 @@ To predict the positive and negative scores for any random 10 comments web scrap
 
 ### 1. Web scrap data using rvest package 
 
-![ScreenShot](webscrap.png)
+![ScreenShot](https://github.com/kishorekumarm/NLP-Amazon-product-review/blob/master/webscrap.PNG)
 
 
 ```python
@@ -81,18 +81,18 @@ df2
 
 ### 2. Tokenization to sentence/word using tm package 
 
-![ScreenShot](tokenization.png)
+![ScreenShot](https://github.com/kishorekumarm/NLP-Amazon-product-review/blob/master/tokenization.PNG)
 
   <i><b>corpus structure:</b></i>
 
-![ScreenShot](corpus1.png)
+![ScreenShot](https://github.com/kishorekumarm/NLP-Amazon-product-review/blob/master/corpus1.PNG)
 
 ### 3. Feeding tokens to nltk package and assess positive and negative scores
 
-![ScreenShot](posscore.png)
+![ScreenShot](https://github.com/kishorekumarm/NLP-Amazon-product-review/blob/master/posscore.PNG)
 
 <b><i>Overall final scores</b></i>
 
-![ScreenShot](overall.png)
+![ScreenShot](https://github.com/kishorekumarm/NLP-Amazon-product-review/blob/master/overall.PNG)
 
 <font size=4><b><u>Inference:</b></u> Of the latest 9 reviews pulled for this product, overall positivity shoots to 95%, which significantly shows the product is well received in the market.</font>
